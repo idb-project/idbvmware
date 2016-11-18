@@ -45,7 +45,7 @@ type config struct {
 	// Create machines if they don't exists in the IDB
 	Create bool
 
-	// IDB API URL, eg. https://idb.office.bytemine.net
+	// IDB API URL, eg. https://idb.example.com
 	IdbUrl string
 
 	// IDB API token
